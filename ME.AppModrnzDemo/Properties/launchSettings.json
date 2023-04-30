@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ME.AppModrnzDemo": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7215"
+    }
+  }
+}
